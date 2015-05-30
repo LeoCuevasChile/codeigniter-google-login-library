@@ -6,7 +6,7 @@ Integrates Google login with codeigniter
 
 # Installation
 
-Add your client ID,client secret,and callback url in `config/twitter_config.php`
+Add your client ID,client secret,and callback url in `config/google_config.php`
 
 ```php
 <?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
