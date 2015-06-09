@@ -6,6 +6,10 @@ Integrates Google login with codeigniter
 
 # Installation
 
+Sample code is provided in demo folder.
+
+Copy the content from library and config folder to your respective codeigniter application folder.
+
 Add your client ID,client secret,and callback url in `config/google_config.php`
 
 ```php
